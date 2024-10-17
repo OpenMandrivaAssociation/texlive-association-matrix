@@ -3,7 +3,7 @@ Version:	64845
 Release:	2
 Summary:	LaTeX support for creating association matrices
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/association-matrix
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/association-matrix
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/association-matrix.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/association-matrix.doc.r%{version}.tar.xz
